@@ -2,6 +2,10 @@
 
 # Root Cause
 
-# Bugfix Details
+# Additional Infomation
+
+# Solution Overview
+
+# Solution Details
 
 # Step-by-step TODO
